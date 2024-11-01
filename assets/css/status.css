@@ -1,0 +1,39 @@
+mark.status-zash-in-stock {
+    background: #547F2D;
+    color: #fff;
+}
+
+mark.status-zash-packaged {
+    background: #307079;
+    color: #fff;
+}
+
+mark.status-zash-readyto-ship {
+    background: #1D76DB;
+    color: #fff;
+}
+
+mark.status-zash-returned {
+    background: rgba(182, 2, 4, 0.74);
+    color: #fff;
+}
+
+mark.status-zash-deleted {
+    background: #B60204;
+    color: #fff;
+}
+
+mark.status-zash-shipping {
+    background: #0052CC;
+    color: #fff;
+}
+
+mark.status-zash-need-review {
+    background: #FBC904;
+    color: #fff;
+}
+
+mark.status-zash-courier {
+    background: #ec2b2ba1;
+    color: #681818;
+}
